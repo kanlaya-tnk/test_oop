@@ -1,0 +1,7 @@
+print("hello Python")
+print("นางสาวกัลยา ละหุกาญ")
+print("ไอซ์")
+print("19 ปี")
+print("3")
+print("67319010024")
+print("ฟังเพลง")
